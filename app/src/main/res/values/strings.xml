@@ -1,0 +1,96 @@
+<resources>
+
+    <string name="app_name">History of Indonesia</string>
+    <string name="history_name">History Name</string>
+    <string name="history_description">Description</string>
+    <string name="about">About</string>
+    <string name="my_name">Rafli Zocky Leonard</string>
+    <string name="my_email">raflizocky@gmail.com</string>
+    <string name="title_detail">Title</string>
+    <string name="description_detail">Description Detail</string>
+    <string name="About_Error">Thank you for visiting, If there is an error in the application, please contact the e-mail listed.</string>
+    <string name="event_date">Event Date</string>
+    <string name="overview">Overview</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Independence Day</item>
+        <item>Boedi Oetomo</item>
+        <item>Youth Pledge</item>
+        <item>G30s/PKI</item>
+        <item>East Timor</item>
+        <item>Round Table Conference</item>
+        <item>Presidential Decree</item>
+        <item>Trisakti</item>
+        <item>First Election</item>
+        <item>November 10</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>This event is the most important event in Indonesian history. This is because the proclamation read by the President of the Republic of Indonesia, Ir. Soekarno, is the gate of the independence of the Republic of Indonesia from the colonies of other countries that have befallen us for more than 350 years.</item>
+        <item>In fact, the existence of the Budi Utomo organization was one of the causes for Indonesia\'s independence more quickly, namely on August 17, 1945. This organization was also the first national unity organization to fight for independence. Therefore, this incident is one of the 10 historical events in Indonesia that you must know about.</item>
+        <item>The youths had an extraordinary fighting spirit to achieve the word independence during the colonial era. Thus, they joined several youth organizations and sparked ideas about national identity. In the end, the 1st and 2nd Youth Pledge Congresses took place, which are always remembered by the Indonesian people. It was also at this incident that the anthem Indonesia Raya was played for the first time.</item>
+        <item>The events of the 30 September movement by the Indonesian Communist Party became one of the 10 historical events in Indonesia that have never been forgotten. Many of the victims who died in this event were, for example, the heroes of the Indonesian revolution themselves. In fact, this incident also led to the existence of a new order from President Soeharto.</item>
+        <item>During the period under President Habibie there was political upheaval that occurred in the Fretilin group which tried to separate one of Indonesia\'s territories from its country, namely East Timor. In the end the province also founded its own country which is currently called Timor Leste in 1999.</item>
+        <item>After Indonesia succeeded in becoming independent, the Dutch returned to Indonesia so that our country needed to fight to maintain its independence. Therefore, a Round Table Conference was held to obtain recognition of the sovereignty of the Indonesian state by the United Nations.</item>
+        <item>On July 5, 1959, President Ir. Soekarno issued a decision or better known as the Presidential Decree. The contents of this decision are to re-enforce the 1945 Constitution, dissolve the Constituent Assembly and establish the DPAS and MPRS.</item>
+        <item>10 historical events in Indonesia, one of which is the Trisakti event. This incident occurred in 1998 which started with the death of four students in Indonesia due to being shot. Because of this, there was an uprising because of this and other things such as the people\'s economy and the high crime rate.</item>
+        <item>Another historical event in Indonesia is the first election that took place in 1955. Indonesia can choose its own Constituent Assembly and members of the DPR who will serve for the first time after ten years of the proclamation.</item>
+        <item>This incident occurred in 1945 due to the lack of recognition from the allied forces regarding Indonesian independence. Thus causing a lot of bloodshed from the citizens of Surabaya to defend the homeland.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://1.bp.blogspot.com/-ffre6gqCba8/VpnrauxKC6I/AAAAAAAAAEk/jJwdLJwwTx4/s1600/proklamasi-kemerdekaan-ri.jpg</item>
+        <item>https://cerdika.com/wp-content/uploads/2020/09/Gambar-Thumbnail-Organisasi-Budi-Utomo-compressed.jpg</item>
+        <item>https://kalaliterasi.com/wp-content/uploads/2020/10/beV4Yg6LpN.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/6/66/45tahunPKI.jpg</item>
+        <item>https://2.bp.blogspot.com/-pkuORps6Lrc/WHrzylO2H5I/AAAAAAAAAZE/E82_x76Z6jU9EZNm5sg_h3DP34pcgiBCgCLcB/s640/IMG_20170115_105405.jpg</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2021/09/13/konferensi-meja-bundar.jpeg?w=700&amp;q=90</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1959_Decree_1.jpg/450px-1959_Decree_1.jpg</item>
+        <item>https://www.tagar.id/Asset/uploads2019/1569398476690-tragedi-trisakti.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1955_Indonesian_Election_Posters.png/450px-1955_Indonesian_Election_Posters.png</item>
+        <item>https://2.bp.blogspot.com/-JUJ_065YvVA/V5jZg5OSctI/AAAAAAAAA7Q/ejz6jbO3uj4eu1CW8UEXjajvADRsodMOwCLcB/s1600/Bung%2BTomo%2BPertempuran%2B10%2BNovember%2BSurabaya.jpg</item>
+    </string-array>
+
+    <string-array name="data_time">
+        <item>
+            Date : 17 August 1945\n
+            Time : 10.00 AM\n
+            Location : Sukarno\'s house at 56 Jalan Pegangsaan Timur, (now Taman Proklamasi).\n
+        </item>
+        <item>
+            Date : 20 May 1908\n
+            Dissolved : 1935\n
+        </item>
+        <item>
+            Date : 27-28 October 1928\n
+            Location : Batavia (Now Jakarta)\n
+        </item>
+        <item>
+            Date : 30 September - 01 October 1965\n
+            Location : Yogyakarta, Jakarta\n
+        </item>
+        <item>
+            Date : 1999-2002\n
+        </item>
+        <item>
+            Date : 23 Augustus - 02 November 1949\n
+            Location : Den Haag, Netherlands\n
+        </item>
+        <item>
+            Date : 05 July 1959\n
+        </item>
+        <item>
+            Date : 12 May 1998\n
+            Location : Trisakti College, Nusantara Building\n
+        </item>
+        <item>
+            Date : 1955\n
+        </item>
+        <item>
+            Date : 10 November 1945\n
+            Location : Surabaya\n
+        </item>
+    </string-array>
+
+</resources>
