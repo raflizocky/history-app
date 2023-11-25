@@ -1,11 +1,16 @@
-# Overview   
-This app provides a simple interface to explore and share historical events, guiding users through Indonesia's rich history.
+# History of Indonesia
+[![Last Updated](https://img.shields.io/badge/version-11.25.2023-blue)](https://github.com/your/repo)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin)](https://kotlinlang.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?logo=gradle)](https://gradle.org/)
+[![OpenJDK](https://img.shields.io/badge/OpenJDK-17%20GA-blue?logo=openjdk)](https://openjdk.java.net/projects/jdk17/)
 
-## Installation 
-Clone this repository and import into Android Studio    
-```
-    https://github.com/raflizocky/history-app.git
-```    
+Journey through Indonesia's rich history with this intuitive app, exploring and sharing pivotal moments that shaped the nation. The app is built using simple Android components and libraries, such as Recycler View and Glide.
+
+Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
+
+For any further inquiries, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raflizockyleonard) or via email at raflizocky@gmail.com.
+
+---
 
 ## Demo    
 <h3 align="center"> Light Mode </h3>
@@ -65,31 +70,3 @@ Clone this repository and import into Android Studio
         style="margin-right: 10px;"    
         width="200" />
 </p>
-
-## Pull Requests
-Feel free to contribute to this repository by creating pull requests to add new features or demonstrate library usage.
-
-## Support Me
-> Just **star** or **fork** this repository and follow my GitHub. Your support means a lot!
-    
-## Author
-[**Rafli Zocky Leonard**](https://www.linkedin.com/in/raflizockyleonard/) - raflizocky@gmail.com
-
-## License 
-```
-
-   Copyright © 2023 Rafli Zocky Leonard
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
-``` 
