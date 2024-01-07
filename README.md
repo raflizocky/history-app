@@ -1,12 +1,15 @@
-# History of Indonesia
+# history-app
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin)](https://kotlinlang.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?logo=gradle)](https://gradle.org/)
 
-Journey through Indonesia's rich history with this intuitive app, exploring and sharing pivotal moments that shaped the nation. The app is built using simple Android components and libraries, such as Recycler View and Glide.
-
-Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
+The app is built using simple Android components and libraries, such as Recycler View and Glide. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
 
 For any further inquiries, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raflizockyleonard) or via email at raflizocky@gmail.com.
+
+---
+
+## Installation
+Download and install beta version [here](https://github.com/raflizocky/history-app/releases/download/v1.0-beta/app-debug.apk)
 
 ---
 
