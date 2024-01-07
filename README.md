@@ -1,6 +1,8 @@
 # history-app
+[![Android Studio](https://img.shields.io/badge/Android%20Studio%20Giraffe-2022.3.1-green?logo=android)](https://developer.android.com/studio)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin)](https://kotlinlang.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?logo=gradle)](https://gradle.org/)
+[![OpenJDK](https://img.shields.io/badge/OpenJDK-17%20GA-orange?logo=openjdk)](https://openjdk.java.net/projects/jdk17/)
 
 The app is built using simple Android components and libraries, such as Recycler View and Glide. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
 
