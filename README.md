@@ -1,8 +1,6 @@
 # History of Indonesia
-[![Last Updated](https://img.shields.io/badge/version-11.25.2023-blue)](https://github.com/your/repo)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin)](https://kotlinlang.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?logo=gradle)](https://gradle.org/)
-[![OpenJDK](https://img.shields.io/badge/OpenJDK-17%20GA-blue?logo=openjdk)](https://openjdk.java.net/projects/jdk17/)
 
 Journey through Indonesia's rich history with this intuitive app, exploring and sharing pivotal moments that shaped the nation. The app is built using simple Android components and libraries, such as Recycler View and Glide.
 
