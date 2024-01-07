@@ -40,7 +40,7 @@
 
         <TextView
             android:id="@+id/detail_time"
-            style="@style/DetailTwoDescriptionStyle"
+            style="@style/DetailDescriptionStyle"
             android:layout_below="@+id/event_date"
             android:text="@string/description_detail" />
 
