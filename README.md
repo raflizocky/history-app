@@ -4,8 +4,6 @@
 
 The app is built using simple Android components and libraries, such as Recycler View and Glide. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
 
-For any further inquiries, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raflizockyleonard) or via email at raflizocky@gmail.com.
-
 ---
 
 ## Installation
