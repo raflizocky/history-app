@@ -4,7 +4,7 @@
 [![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?logo=gradle)](https://gradle.org/)
 [![OpenJDK](https://img.shields.io/badge/OpenJDK-17%20GA-orange?logo=openjdk)](https://openjdk.java.net/projects/jdk17/)
 
-The app is built using simple Android components and libraries, such as Recycler View and Glide. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
+The app is built using simple Android components and libraries, such as Recycler View and Glide. Feel free to enhance this repository by submitting pull requests that introduce new features or showcase library usage. Your support, whether through starring or forking this repository, is greatly appreciated!
 
 ---
 
